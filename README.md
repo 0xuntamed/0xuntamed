@@ -7,11 +7,11 @@
 - 🌱 I’m currently learning **databases and Go**
 - 👯 I’m looking to collaborate on **streaming platforms**
 - 🤝 I’m looking for help with **low-level systems**
-- 👨‍💻 All of my projects are available at [mywebsite.com](https://mywebsite.com)
-- 📝 I regularly write articles on [mywebsite.com/blogs](https://mywebsite.com/blogs)
+- 👨‍💻 All of my projects are available at [bilal.vision](https://bilal.vision)
+- 📝 I regularly write articles on [bilal.vision/blogs](https://bilal.vision)
 - 💬 Ask me about **math and JavaScript**
 - 📫 How to reach me: **someemail@gmail.com**
-- 📄 Know about my experience: [4 years](https://mywebsite.com/experience)
+- 📄 Know about my experience: 4 years
 - ⚡ Fun fact: **I’m obsessed with building things**
 
 <h3 align="left">Connect with me:</h3>
