@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Bilal Ahmed</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center"> Software Engineer</h3>
 
 - 🔭 I’m currently working on **live-web-streaming**
 - 🌱 I’m currently learning **databases and Go**
