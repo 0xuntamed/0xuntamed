@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [bilal.vision](https://bilal.vision)
 - 📝 I regularly write articles on [bilal.vision/blogs](https://bilal.vision)
 - 💬 Ask me about **math and JavaScript**
-- 📫 How to reach me: **someemail@gmail.com**
+- 📫 How to reach me: **ahmedbilal.sde@gmail.com**
 - 📄 Know about my experience: 4 years
 - ⚡ Fun fact: **I’m obsessed with building things**
 
