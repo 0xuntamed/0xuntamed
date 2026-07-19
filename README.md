@@ -1,212 +1,31 @@
-<div align="center">
-
-# Bilal Ahmed
-
-### Software Engineer • Systems Thinker • Builder
-
-*"I don't like using abstractions until I understand what they're hiding."*
-
-</div>
-
----
-
-## About Me
-
-I enjoy peeling software apart until I understand every moving piece.
-
-Instead of memorizing frameworks, I prefer understanding the layers beneath them.
-
-Lately I've been spending my time understanding things like
-
-- Network packets → Kernel → epoll → libuv → Event Loop
-- Streams, Buffers & Backpressure
-- React Rendering & Hooks Internals
-- Browser Rendering Pipeline
-- Distributed Systems
-- High Performance Backend Systems
-- AI Assisted Developer Tools
-
-I like building products that force me to learn engineering rather than simply writing code.
-
----
-
-## Current Focus
-
-```text
-██████████░░░░░░░░░░  Node.js Internals
-█████████░░░░░░░░░░░  Distributed Systems
-████████░░░░░░░░░░░░  AI Infrastructure
-███████░░░░░░░░░░░░░  Go
-██████░░░░░░░░░░░░░░  Kubernetes
-█████░░░░░░░░░░░░░░░  Linux Internals
-```
-
----
-
-## Things I'm Building
-
-### CodeMaps
-
-Visualize an entire codebase as an interactive engineering graph.
-
-- dependency graph
-- architectural map
-- symbol navigation
-- code relationships
-- AI assisted exploration
-
-> Because reading a million lines of code shouldn't feel like archaeology.
-
----
-
-### EventLoop Studio
-
-A visual playground for understanding Node.js internals.
-
-Simulate
-
-- Event Loop
-- Timers
-- Microtasks
-- Macrotasks
-- Worker Threads
-- Streams
-- Backpressure
-- libuv
-- Network I/O
-
-Think of it as Figma for Node Internals.
-
----
-
-### Self-Healing Infrastructure
-
-An AI-assisted deployment platform capable of
-
-- detecting deployment failures
-- diagnosing logs
-- proposing fixes
-- opening pull requests automatically
-- human approval before deployment
-
----
-
-## Engineering Interests
-
-```yaml
-backend:
-  - Node.js
-  - Go
-  - Distributed Systems
-  - System Design
-  - Networking
-  - Linux
-
-frontend:
-  - React
-  - Next.js
-  - Browser Internals
-  - Performance
-
-cloud:
-  - Docker
-  - Kubernetes
-  - AWS
-  - Terraform
-
-databases:
-  - PostgreSQL
-  - Redis
-  - MongoDB
-
-observability:
-  - Grafana
-  - Prometheus
-  - OpenTelemetry
-
-currently_learning:
-  - eBPF
-  - Kernel Networking
-  - Compiler Design
-```
-
----
-
-## Philosophy
-
-```
-Learn concepts.
-
-↓
-
-Understand internals.
-
-↓
-
-Build from first principles.
-
-↓
-
-Optimize.
-
-↓
-
-Repeat.
-```
-
----
-
-## Projects
-
-| Project | Description |
-|----------|-------------|
-| CodeMaps | AI powered engineering knowledge graph |
-| EventLoop Studio | Visual Node.js runtime simulator |
-| Apizy | Visual API Builder |
-| Analytics Engine | Distributed analytics platform |
-| OpenTelemetry Sidecar | Zero code tracing proxy |
-| DAG Benchmark Tool | IPLD benchmarking framework |
-| Two Phase Commit | Implementation in Go |
-
----
-
-## Reading
-
-Currently exploring
-
-- Designing Data Intensive Applications
-- Linux Kernel Documentation
-- Computer Networking
-- V8 Source Code
-- libuv Source
-- PostgreSQL Internals
-
----
-
-## Fun Fact
-
-Most people open framework documentation.
-
-I open the source code.
-
----
-
-## Connect
-
-GitHub: github.com/0xuntamed
-
-Always happy to discuss
-
-- backend architecture
-- distributed systems
-- AI tooling
-- performance engineering
-- systems programming
-
----
-
-<div align="center">
-
-### Build things that teach you something.
-
-</div>
+# Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Bilal Ahmed</h1>
+<h3 align="center"> Software Engineer</h3>
+
+- 🔭 I’m currently working on **live-web-streaming**
+- 🌱 I’m currently learning **databases and Go**
+- 👯 I’m looking to collaborate on **streaming platforms**
+- 🤝 I’m looking for help with **low-level systems**
+- 👨‍💻 All of my projects are available at [bilal.vision](https://bilal.vision)
+- 📝 I regularly write articles on [bilal.vision/blogs](https://bilal.vision)
+- 💬 Ask me about **math and JavaScript**
+- 📫 How to reach me: **ahmedbilal.sde@gmail.com**
+- 📄 Know about my experience: 4 years
+- ⚡ Fun fact: **I’m obsessed with building things**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://mywebsite.com" target="_blank" rel="noreferrer">Website</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+| Category | Stack |
+| --- | --- |
+| Languages | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a> |
+| Frontend | <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/></a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a> |
+| Backend and Data | <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> |
+| DevOps and Cloud | <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a> |
+| Testing and Tools | <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a> <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a> <a href="https://zapier.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a> |
+| Systems and Streaming | <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/></a> <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> |
