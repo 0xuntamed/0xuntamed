@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **streaming platforms**
 - 🤝 I’m looking for help with **low-level systems**
 - 👨‍💻 All of my projects are available at [bilal.vision](https://bilal.vision)
-- 📝 I regularly write articles on [bilal.vision/blogs](https://bilal.vision)
+- 📝 I regularly write articles on [blogs](https://digitalgarden-tan.vercel.app/)
 - 💬 Ask me about **math and JavaScript**
 - 📫 How to reach me: **ahmedbilal.sde@gmail.com**
 - 📄 Know about my experience: 4 years
