@@ -1,31 +1,270 @@
-# Hi there 👋
+# Hey, I'm Bilal 👋
 
-<h1 align="center">Hi 👋, I'm Bilal Ahmed</h1>
-<h3 align="center"> Software Engineer</h3>
+### Software Engineer · Backend · Systems · Platform Engineering
 
-- 🔭 I’m currently working on **live-web-streaming**
-- 🌱 I’m currently learning **databases and Go**
-- 👯 I’m looking to collaborate on **streaming platforms**
-- 🤝 I’m looking for help with **low-level systems**
-- 👨‍💻 All of my projects are available at [bilal.vision](https://bilal.vision)
-- 📝 I regularly write articles on [blogs](https://digitalgarden-tan.vercel.app/)
-- 💬 Ask me about **math and JavaScript**
-- 📫 How to reach me: **ahmedbilal.sde@gmail.com**
-- 📄 Know about my experience: 4 years
-- ⚡ Fun fact: **I’m obsessed with building things**
+I like understanding what happens **below the abstraction**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://mywebsite.com" target="_blank" rel="noreferrer">Website</a>
+Not just *how to use* a framework or infrastructure tool — but what happens underneath it: how runtimes schedule work, how data moves through networks, how operating systems expose resources, how distributed systems fail, and how software behaves once it reaches production.
+
+I build across the stack, but I'm especially interested in the intersection of:
+
+**Backend Engineering × Distributed Systems × Infrastructure × Developer Tools**
+
+---
+
+## ⚡ What I'm exploring
+
+```text
+Application
+    ↓
+Runtime
+    ↓
+Operating System
+    ↓
+Network
+    ↓
+Infrastructure
+    ↓
+Production
+```
+
+Most of my learning and projects revolve around understanding this entire path.
+
+Currently going deeper into:
+
+* Distributed systems & system design
+* Platform engineering & production infrastructure
+* Linux and networking internals
+* Observability & performance
+* Go for infrastructure tooling
+* AWS, Terraform, Docker & deployment architecture
+* Runtime internals — Node.js, browsers and async systems
+* Developer tooling
+
+---
+
+## 🧠 Things I've gone deep on
+
+### Runtime & Internals
+
+`Node.js` · `libuv` · `Event Loop` · `Streams` · `Buffers`
+`Backpressure` · `epoll` · `IOCP` · `Worker Pools`
+
+### Systems
+
+`Operating Systems` · `TCP/IP` · `Sockets` · `DNS`
+`Load Balancing` · `Caching` · `Concurrency` · `Distributed Systems`
+
+### Infrastructure
+
+`AWS` · `Docker` · `Terraform` · `Jenkins`
+`Observability` · `OpenTelemetry` · `Grafana`
+
+### Product Engineering
+
+`React` · `Next.js` · `TypeScript` · `Node.js`
+`Go` · `PostgreSQL` · `Redis`
+
+---
+
+# 🛠 Selected Engineering Projects
+
+## 🗺 Code Atlas
+
+> Turning a codebase into something you can visually reason about.
+
+A developer tool for exploring codebases as interactive dependency graphs rather than navigating hundreds of files manually.
+
+The idea goes beyond visualization — understanding dependencies can help reason about **change impact, architecture and blast radius**.
+
+**Exploring:** ASTs · dependency graphs · code intelligence · developer tooling
+
+→ [View Code Atlas](https://github.com/0xuntamed/code-atlas)
+
+---
+
+## ⚙️ EventLoop Studio
+
+> What if you could actually *see* Node.js execute your asynchronous code?
+
+A deterministic Node.js runtime simulator designed around:
+
+```text
+Source Code
+     ↓
+   Parser
+     ↓
+Intermediate Representation
+     ↓
+ Scheduler
+     ↓
+Runtime Events
+     ↓
+Interactive Timeline
+```
+
+Built to visualize concepts such as the event loop, async scheduling, microtasks and runtime execution instead of treating them as invisible implementation details.
+
+---
+
+## 🔭 OpenTelemetry Bridge Sidecar
+
+A transparent reverse-proxy sidecar for injecting distributed tracing into HTTP applications with minimal application-level changes.
+
+An exploration of:
+
+**reverse proxies · distributed tracing · observability · networking**
+
+---
+
+## 🌊 Adaptive Backpressure Layer
+
+Experimenting with dynamically controlling stream throughput based on network conditions such as:
+
+* RTT
+* packet loss
+* consumer throughput
+* buffer pressure
+
+Built from curiosity around what happens when producers generate data faster than networks or consumers can process it.
+
+---
+
+## 🔗 Distributed Systems Experiments
+
+I like implementing concepts normally encountered in textbooks or infrastructure papers.
+
+Some experiments include:
+
+**Two-Phase Commit**
+
+```text
+Coordinator
+   │
+   ├── Prepare ──→ Node A
+   ├── Prepare ──→ Node B
+   │
+   └── Commit / Abort
+```
+
+**DAG / IPLD Benchmarking**
+
+Experimenting with different graph/data representations and benchmarking their behavior.
+
+---
+
+# 🧩 How I think about engineering
+
+I'm interested in the boundaries between layers.
+
+```text
+Frontend
+   ↓
+Backend
+   ↓
+Runtime
+   ↓
+OS / Kernel
+   ↓
+Network
+   ↓
+Cloud Infrastructure
+```
+
+A performance problem at the top may actually originate several layers below it.
+
+A database bottleneck might really be a caching problem.
+
+A latency problem might really be a network problem.
+
+A deployment problem might expose an architectural assumption in the application.
+
+Understanding those boundaries is what makes engineering interesting to me.
+
+---
+
+# 🔨 Tech I work with
+
+**Languages**
+
+`TypeScript` `JavaScript` `Go` `Python`
+
+**Frontend**
+
+`React` `Next.js`
+
+**Backend**
+
+`Node.js` `Go` `REST APIs`
+
+**Data**
+
+`PostgreSQL` `Redis`
+
+**Infrastructure**
+
+`AWS` `Docker` `Terraform` `Jenkins`
+
+**Observability**
+
+`OpenTelemetry` `Grafana`
+
+**Systems**
+
+`Linux` `Networking` `Distributed Systems` `Concurrency`
+
+---
+
+# 📚 I write about what I learn
+
+I enjoy taking things that initially look like magic and tracing them down until they become understandable.
+
+Topics include:
+
+* Node.js internals
+* Event loop architecture
+* Streams and backpressure
+* Networking
+* Browser/runtime internals
+* Distributed systems
+* Infrastructure
+* System design
+
+**→ [Read my engineering notes & blogs](https://www.bilal.vision/blog)**
+
+---
+
+# 🧪 Current Lab
+
+```text
+$ whoami
+Bilal Ahmed
+
+$ focus
+backend + distributed systems + platform engineering
+
+$ currently_learning
+linux / networking / aws / terraform / production systems
+
+$ favorite_question
+"Okay... but what happens underneath?"
+
+$ status
+building things to find out.
+```
+
+---
+
+## 🌐 Find me
+
+**Portfolio** → [bilal.vision](https://www.bilal.vision)
+
+**GitHub** → [github.com/0xuntamed](https://github.com/0xuntamed)
+
+**Blog** → [bilal.vision/blog](https://www.bilal.vision/blog)
+
+---
+
+<p align="center">
+  <b>Build at the abstraction. Understand what's underneath it.</b>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-| Category | Stack |
-| --- | --- |
-| Languages | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a> |
-| Frontend | <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/></a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a> |
-| Backend and Data | <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> |
-| DevOps and Cloud | <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a> |
-| Testing and Tools | <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a> <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a> <a href="https://zapier.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a> |
-| Systems and Streaming | <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/></a> <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> |
