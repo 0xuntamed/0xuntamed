@@ -105,14 +105,11 @@ Interactive Timeline
 
 Built to visualize concepts such as the event loop, async scheduling, microtasks and runtime execution instead of treating them as invisible implementation details.
 
+→ [View Eventloop]([https://github.com/0xuntamed/Eventloop](https://github.com/0xuntamed/Eventloop-stimulationloop))
 ---
 
 
-## 🔗 Distributed Systems Experiments
 
-I like implementing concepts normally encountered in textbooks or infrastructure papers.
-
-Some experiments include:
 
 
 ---
@@ -194,7 +191,7 @@ Topics include:
 * Infrastructure
 * System design
 
-**→ [Read my engineering notes & blogs](https://www.bilal.vision/blog)**
+**→ [Read my engineering notes & blogs](https://digitalgarden-tan.vercel.app/)**
 
 ---
 
@@ -225,7 +222,7 @@ building things to find out.
 
 **GitHub** → [github.com/0xuntamed](https://github.com/0xuntamed)
 
-**Blog** → [bilal.vision/blog](https://www.bilal.vision/blog)
+**Blog** → [bilal.vision/blog](https://digitalgarden-tan.vercel.app/)
 
 ---
 
