@@ -107,28 +107,6 @@ Built to visualize concepts such as the event loop, async scheduling, microtasks
 
 ---
 
-## 🔭 OpenTelemetry Bridge Sidecar
-
-A transparent reverse-proxy sidecar for injecting distributed tracing into HTTP applications with minimal application-level changes.
-
-An exploration of:
-
-**reverse proxies · distributed tracing · observability · networking**
-
----
-
-## 🌊 Adaptive Backpressure Layer
-
-Experimenting with dynamically controlling stream throughput based on network conditions such as:
-
-* RTT
-* packet loss
-* consumer throughput
-* buffer pressure
-
-Built from curiosity around what happens when producers generate data faster than networks or consumers can process it.
-
----
 
 ## 🔗 Distributed Systems Experiments
 
@@ -136,20 +114,6 @@ I like implementing concepts normally encountered in textbooks or infrastructure
 
 Some experiments include:
 
-**Two-Phase Commit**
-
-```text
-Coordinator
-   │
-   ├── Prepare ──→ Node A
-   ├── Prepare ──→ Node B
-   │
-   └── Commit / Abort
-```
-
-**DAG / IPLD Benchmarking**
-
-Experimenting with different graph/data representations and benchmarking their behavior.
 
 ---
 
